@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="man" language="en">Happy birthday princess!</Say>
-    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+    <Play>https://github.com/santiagoangel/twilio-demo/blob/master/media/msg.mp3?raw=true</Play>
 </Response>
