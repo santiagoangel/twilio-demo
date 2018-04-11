@@ -5,4 +5,5 @@
   <Gather/>
   <Pause length="1"/>
   <Say voice="alice" language="en-CA">Wait on the line for personalized attention.</Say>
+  <Say voice="alice" language="en-CA">Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.</Say>
 </Response>
