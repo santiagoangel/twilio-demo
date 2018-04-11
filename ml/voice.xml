@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Play>https://github.com/santiagoangel/twilio-demo/raw/master/media/msg.mp3</Play>
+    <Play>https://raw.githubusercontent.com/santiagoangel/twilio-demo/master/media/msg.mp3</Play>
 </Response>
