@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Say voice="alice" language="en-US">Welcome to Amazon Web Services. If you know extension please dial it now.</Say>
-<Pause length="1"/><Say voice="alice" language="en-US">Wait on the line for personalized attention.</Say></Response>
+<Response>
+  <Pause length="2"/>
+  <Say language="en-CA">Welcome to Amazon Web Services. If you know extension please dial it now.</Say>
+  <Pause length="2"/>
+  <Say language="en-CA">Wait on the line for personalized attention.</Say>
+</Response>
